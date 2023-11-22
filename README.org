@@ -1,4 +1,4 @@
-#+title: Readme
+#+title: nyan-mode-with-pomodoro
 
 This config file is a script that enables nyan-mode when using org-pomodoro.
 
