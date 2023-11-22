@@ -1,0 +1,5 @@
+#+title: Readme
+
+This config file is a script that enables nyan-mode when using org-pomodoro.
+
+To change the width of nyan-mode, adjust the length of nyan-mode-width.

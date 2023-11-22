@@ -1,4 +1,4 @@
-;;; distribution/config.el -*- lexical-binding: t; -*-
+;;; distribution/nyan-mode-with-pomodoro/config.el -*- lexical-binding: t; -*-
 
 (use-package! nyan-mode
   :after org-pomodoro
